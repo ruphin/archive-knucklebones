@@ -1,0 +1,6 @@
+### PLAN
+
+Generate all possible board states per N freedoms
+
+
+
